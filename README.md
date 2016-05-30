@@ -2,7 +2,7 @@
 一键式集成轮播组件
 App中不可或缺的广告轮播图组件，现在开源出来了，希望对大家有帮助！使用过程中有出现任何bug，都会很快帮助解决！
 
-![image](http:///Users/zhangxuanhe/Desktop/tufit.gif)
+![image](file:///Users/zhangxuanhe/Desktop/tufit.gif)
 
 #有什么特性
 
