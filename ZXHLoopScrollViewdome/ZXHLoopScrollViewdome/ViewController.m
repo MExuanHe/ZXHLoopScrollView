@@ -28,16 +28,12 @@
                         [UIImage imageNamed:@"h3.jpg"],
                         [UIImage imageNamed:@"h1.jpg"],
                         [UIImage imageNamed:@"h2.jpg"],
-                        @"http://s0.pimg.cn/group6/M00/45/84/wKgBjVZVjYCAEIM4AAKYJZIpvWo152.jpg?imageMogr2/strip/thumbnail/1200%3E/quality/95",
-                        url,
                         ];
     
     NSArray *titles = @[@"Thank you for your support!",
                         @"Contact me if any quetion.",
                         @"Email me .",
                         @"Thank you again.",
-                        @"博客：",
-                        @"github:",
                         ];
     
     // 当有导航条时，若距离上面不点满，或者被挡一部分，请一定要设置这一行，因为7.0之后self.view的起点坐标从
