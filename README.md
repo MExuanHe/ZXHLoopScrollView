@@ -1,2 +1,2 @@
 # ZXHLoopScrollView
-基于AFN3.0的网络封装 
+一键式集成轮播组件
